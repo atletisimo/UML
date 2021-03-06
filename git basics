@@ -1,0 +1,16 @@
+mkdir store
+cd store
+git init
+notepad README.txt
+git status
+git add README.txt //into stage area 
+git commit -m "Create a file"
+git log // check all commits
+git add --all
+git add docs/   // adding all files into docs
+git diff  //modifications into working area
+git diff --staged  
+git rm file.txt // removes file by the repository,(files that were commited and are in repository)but not by working or stage area
+git rm -f file.txt // removes file by working or stage area
+git reset HEAD file.txt // return the file from stage area into working area
+
