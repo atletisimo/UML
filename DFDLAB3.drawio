@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T10:00:41.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="iZ68Ri5w4W2sGc3x_pW3" type="github"><diagram id="PVujF9Z27BSPBDl2LqY4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-06T11:01:42.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ckKJijNNwHsUyC6adhGb" version="15.7.0" type="github">
+  <diagram id="PVujF9Z27BSPBDl2LqY4" name="Page-1">
+    <mxGraphModel dx="2238" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-1" target="SPCOxQnkKAMnvxW0yn8Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="790.800048828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-35" value="Затвара сметка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SPCOxQnkKAMnvxW0yn8Z-34">
+          <mxGeometry x="0.4075" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-1" value="Келнер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-2" value="Кувар" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-3" target="SPCOxQnkKAMnvxW0yn8Z-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-3" value="Купувач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-4" value="Шеф" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-5" target="SPCOxQnkKAMnvxW0yn8Z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-5" value="Зема нарачка" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-7" target="SPCOxQnkKAMnvxW0yn8Z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-7" value="Внесува во систем" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-9" target="SPCOxQnkKAMnvxW0yn8Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-9" value="Примање нарачка" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-15" target="SPCOxQnkKAMnvxW0yn8Z-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Информации за&amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; рецепти" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="483" y="300" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-16" target="SPCOxQnkKAMnvxW0yn8Z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-16" target="SPCOxQnkKAMnvxW0yn8Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-16" value="Испорака до купувач" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-19" value="ОК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-23" target="SPCOxQnkKAMnvxW0yn8Z-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-23" value="Ажурира состојба во магацинот" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Податоци за артикли" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="500" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-26" target="SPCOxQnkKAMnvxW0yn8Z-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-29" value="Спремена нарачка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SPCOxQnkKAMnvxW0yn8Z-28">
+          <mxGeometry x="-0.4155" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-26" value="Спремање нарачка" style="ellipse;whiteSpace=wrap;html=1;dashed=0;align=left;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="498" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SPCOxQnkKAMnvxW0yn8Z-32" target="SPCOxQnkKAMnvxW0yn8Z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-32" value="Повик на келнер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="534" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCOxQnkKAMnvxW0yn8Z-36" value="Печатење на сметка" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
